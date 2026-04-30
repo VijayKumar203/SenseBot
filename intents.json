@@ -51,11 +51,13 @@
             "Who are you",
             "What are you",
             "What is your purpose"
+            "what are the responses you can give"
         ],
         "responses": [
             "I am a chatbot",
             "My purpose is to assist you",
             "I can answer questions and provide assistance"
+            "My responses depend on my training data. You can ask me questions and I will try to help!"
         ]
     },
     {

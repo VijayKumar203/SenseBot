@@ -44,6 +44,7 @@ def chatbot(input_text):
         if intent['tag'] == tag:
             response = random.choice(intent['responses'])
             return response
+    return "Sorry, I didn't understand that. Can you rephrase?"
         
 counter = 0
 
